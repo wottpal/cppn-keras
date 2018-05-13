@@ -1,5 +1,5 @@
 # CPPN in Keras 2
- 
+
 Implementation of a Compositional Pattern Producing Network in Keras 2 with some command-line utilities to easily generate your own images.
 
 Code heavily borrowed from:
@@ -14,6 +14,13 @@ Code heavily borrowed from:
 |<img width="500" src="./examples/img.01.var124.png">|<img width="500" src="./examples/img.02.var112.png">|<img width="500" src="./examples/img.03.var100.png">|
 |<img width="500" src="./examples/img.04.var137.png">|<img width="500" src="./examples/img.05.var137.png">|<img width="500" src="./examples/img.06.var150.png">|
 |<img width="500" src="./examples/img.07.var126.png">|<img width="500" src="./examples/img.08.var75.png">|<img width="500" src="./examples/img.09.var97.png">|
+
+
+## Wallpapers
+
+I've generated a bunch of patterns in high resolution (2560×1600) and made them available as [download](https://goo.gl/U9jBuh). Feel free to [tweet it out](https://twitter.com/intent/tweet?text=CPPN-Wallpapers%20by%20%40wottpal%20https%3A%2F%2Fgoo.gl%2FU9jBuh) if you like them.
+
+![Wallpapers-Preview](https://github.com/wottpal/cppn-keras/raw/wallpapers/CPPN-Wallpapers.gif)
 
 
 ## Requirements
